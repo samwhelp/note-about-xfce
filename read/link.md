@@ -15,6 +15,17 @@ has_children: true
 * [https://archive.xfce.org/](https://archive.xfce.org/)
 
 
+## Project
+
+
+* [style-xfce](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/project/style-xfce)
+
+
+## Install Script
+
+* [play-ubuntu-20.04-plan/prototype/xfce](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/prototype/xfce)
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
