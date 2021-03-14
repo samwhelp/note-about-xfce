@@ -1,0 +1,21 @@
+---
+title: 連結
+nav_order: 99
+has_children: true
+---
+
+# 連結
+
+
+## Xfce
+
+* [Xfce Desktop Environment](https://www.xfce.org/) ([GitHub](https://github.com/xfce-mirror))
+* [https://docs.xfce.org/](https://docs.xfce.org/)
+* [https://www.xfce.org/download](https://www.xfce.org/download)
+* [https://archive.xfce.org/](https://archive.xfce.org/)
+
+
+## Just the Docs
+
+* [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
+* [Demo](https://pmarsceill.github.io/jtd-remote/) ([GitHub](https://github.com/pmarsceill/jtd-remote))
