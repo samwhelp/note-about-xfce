@@ -26,7 +26,3 @@ grand_parent: 使用情境
 | `Win + 0` | 視窗(容器)移到工作空間 10        | `move_window_workspace_10_key` (xfwm4 builtin) |
 
 
-
-## 參考連結
-
-* i3 User’s Guide / [6.8. Changing (named) workspaces/moving to workspaces](https://xfce.org/docs/userguide.html#_changing_named_workspaces_moving_to_workspaces)
