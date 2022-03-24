@@ -10,7 +10,7 @@ grand_parent: 使用情境
 # 平鋪視窗移動操作
 
 
-* [config snippet](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L191)
+* [設定片段](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L191)
 
 | 按鍵組合          | 功能           | 執行指令              |
 | ----------------- | -------------- | ---------------------------- |
