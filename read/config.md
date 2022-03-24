@@ -1,7 +1,7 @@
 ---
 title: 設定
 nav_order: 2000
-has_children: true
+has_children: false
 ---
 
 # 設定
