@@ -50,7 +50,7 @@ parent: 使用情境
 | --- |
 | [單一視窗基本操作](main/window-control) |
 | [視窗聚焦切換](main/window-focus) |
-| [平鋪視窗移動操作](main/window-tiled-move) |
+| [視窗平鋪移動操作](main/window-tiling-move) |
 
 
 ## 工作空間
