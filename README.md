@@ -30,7 +30,7 @@
 * [ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
 * [manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
 * [xsession 簡易入門](https://samwhelp.github.io/note-about-xsession/)
-
+* [System Modeling](https://samwhelp.github.io/system-modeling/)
 
 ## samwhelp
 
