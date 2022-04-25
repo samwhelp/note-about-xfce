@@ -339,10 +339,10 @@ fcitx_config_install_im_config_by_command () {
 	echo
 
 	echo "im-config -n fcitx"
-	im-config -n fcitx
+	#im-config -n fcitx
 
 	echo "cat ~/.xinputrc"
-	cat ~/.xinputrc
+	#cat ~/.xinputrc
 
 	echo
 }
