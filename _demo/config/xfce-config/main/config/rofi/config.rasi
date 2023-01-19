@@ -9,7 +9,7 @@ configuration {
   combi-modi: "window,drun";
 
   kb-accept-entry: "Control+j,Control+m,Return,KP_Enter,Alt+z";
-  kb-row-up: "Up,Control+p,ISO_Left_Tab,Alt+a";
+  kb-row-up: "Up,Control+p,Alt+a";
   kb-row-down: "Down,Control+n,Alt+s";
   kb-page-prev: "Page_Up,Super_L+s";
   kb-page-next: "Page_Down,Super_L+a";
