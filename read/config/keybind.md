@@ -25,58 +25,58 @@ parent: 設定
 
 這篇的根據，是採用「[客製的設定](https://samwhelp.github.io/note-about-xfce/read/config/main.html)」，
 
-請參考「[我的設定檔](https://github.com/samwhelp/note-about-xfce/tree/gh-pages/_demo/config/xfce-config/main/config/xfce4)」。
+請參考「[我的設定檔](https://github.com/samwhelp/note-about-xfce/tree/gh-pages/_demo/config/xfce-config/keybind/config/xfce4)」。
 
 
 ## 系統操作
 
 | 主題 |
 | --- |
-| [系統操作](main/system-control) |
+| [系統操作](keybind/system-control) |
 
 
 ## 開啟應用程式
 
 | 主題 |
 | --- |
-| [開啟 Terminal](main/application-launch-terminal) |
-| [開啟 Rofi](main/application-launch-rofi) |
-| [開啟常用的應用程式](main/application-launch-favorite) |
+| [開啟 Terminal](keybind/application-launch-terminal) |
+| [開啟 Rofi](keybind/application-launch-rofi) |
+| [開啟常用的應用程式](keybind/application-launch-favorite) |
 
 
 ## 視窗操作
 
 | 主題 |
 | --- |
-| [視窗基本操作](main/window-control) |
-| [視窗聚焦切換](main/window-focus) |
-| [視窗平鋪移動操作](main/window-tiling-move) |
+| [視窗基本操作](keybind/window-control) |
+| [視窗聚焦切換](keybind/window-focus) |
+| [視窗平鋪移動操作](keybind/window-tiling-move) |
 
 
 ## 工作空間
 
 | 主題 |
 | --- |
-| [工作空間切換](main/workspace-switch) |
-| [視窗移到指定工作空間](main/window-move-to-workspace) |
+| [工作空間切換](keybind/workspace-switch) |
+| [視窗移到指定工作空間](keybind/window-move-to-workspace) |
 
 
 ## 桌面圖片
 
 | 主題 |
 | --- |
-| [桌面圖片](main/wallpaper-control) |
+| [桌面圖片](keybind/wallpaper-control) |
 
 
 ## 螢幕截圖
 
 | 主題 |
 | --- |
-| [螢幕截圖](main/screenshot) |
+| [螢幕截圖](keybind/screenshot) |
 
 
 ## 音量控制
 
 | 主題 |
 | --- |
-| [音量控制](main/volume-control) |
+| [音量控制](keybind/volume-control) |
