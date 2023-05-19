@@ -33,6 +33,7 @@ parent: 設定
 | 主題 |
 | --- |
 | [系統操作](keybind/system-control) |
+| [系統選單](keybind/system-menu) |
 
 
 ## 開啟應用程式
