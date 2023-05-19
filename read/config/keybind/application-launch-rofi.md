@@ -9,6 +9,9 @@ grand_parent: 設定
 
 # 開啟應用程式 (Rofi)
 
+
+## Rofi
+
 * [設定片段](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L66-L68)
 
 
