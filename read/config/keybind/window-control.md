@@ -1,6 +1,6 @@
 ---
 title: 視窗基本操作
-nav_order: 5020
+nav_order: 2020
 has_children: false
 parent: 按鍵綁定
 grand_parent: 設定

@@ -1,6 +1,6 @@
 ---
 title: 開啟應用程式 (Rofi)
-nav_order: 5011
+nav_order: 2011
 has_children: false
 parent: 按鍵綁定
 grand_parent: 設定

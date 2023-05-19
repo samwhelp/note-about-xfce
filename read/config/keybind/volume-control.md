@@ -1,6 +1,6 @@
 ---
 title: 音量控制
-nav_order: 5052
+nav_order: 2052
 has_children: false
 parent: 按鍵綁定
 grand_parent: 設定

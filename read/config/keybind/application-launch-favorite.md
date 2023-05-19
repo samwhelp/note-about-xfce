@@ -1,6 +1,6 @@
 ---
 title: 開啟應用程式 (常用的)
-nav_order: 5013
+nav_order: 2013
 has_children: false
 parent: 按鍵綁定
 grand_parent: 設定

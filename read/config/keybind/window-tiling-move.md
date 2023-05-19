@@ -1,6 +1,6 @@
 ---
 title: 視窗平鋪移動操作
-nav_order: 5022
+nav_order: 2022
 has_children: false
 parent: 按鍵綁定
 grand_parent: 設定

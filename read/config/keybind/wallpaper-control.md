@@ -1,6 +1,6 @@
 ---
 title: 桌面圖片
-nav_order: 5050
+nav_order: 2050
 has_children: false
 parent: 按鍵綁定
 grand_parent: 設定

@@ -1,6 +1,6 @@
 ---
 title: 系統操作
-nav_order: 5001
+nav_order: 2001
 has_children: false
 parent: 按鍵綁定
 grand_parent: 設定
