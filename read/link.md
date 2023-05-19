@@ -10,7 +10,8 @@ has_children: false
 ## Xfce
 
 * [Xfce Desktop Environment](https://www.xfce.org/) ([GitHub](https://github.com/xfce-mirror))
-* [https://docs.xfce.org/](https://docs.xfce.org/)
+* Xfce / [Docs](https://docs.xfce.org/)
+* Xfce / [Wiki](https://wiki.xfce.org/)
 * [https://www.xfce.org/download](https://www.xfce.org/download)
 * [https://archive.xfce.org/](https://archive.xfce.org/)
 
