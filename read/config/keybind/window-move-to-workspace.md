@@ -2,8 +2,8 @@
 title: 視窗移到指定工作空間
 nav_order: 5041
 has_children: false
-parent: 使用情境(客製)
-grand_parent: 使用情境
+parent: 按鍵綁定
+grand_parent: 設定
 ---
 
 
