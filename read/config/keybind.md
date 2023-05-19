@@ -23,7 +23,7 @@ parent: 設定
 
 ## 設定檔
 
-這篇的根據，是採用「[客製的設定](https://samwhelp.github.io/note-about-xfce/read/config/main.html)」，
+這篇的根據，是採用「[客製的設定](https://samwhelp.github.io/note-about-xfce/read/config/profile/main.html)」，
 
 請參考「[我的設定檔](https://github.com/samwhelp/note-about-xfce/tree/gh-pages/_demo/config/xfce-config/keybind/config/xfce4)」。
 
