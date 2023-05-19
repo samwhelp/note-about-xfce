@@ -10,7 +10,7 @@ grand_parent: 設定
 # 開啟應用程式 (常用的)
 
 
-## 常用的
+## 常用的應用程式
 
 * [設定片段](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L75-L78)
 
@@ -27,3 +27,15 @@ grand_parent: 設定
 | `Alt + Shift + g` | 開啟檔案管理器 | `thunar`     |
 | `Alt + Shift + e` | 開啟文字編輯器 | `mousepad`   |
 | `Alt + Shift + b` | 開啟網頁瀏覽器 | `firefox`    |
+
+
+
+## 常用的系統設定程式
+
+
+| 按鍵組合          | 功能           | 執行指令     |
+| ----------------- | -------------- | ------------ |
+| `Alt + Shift + s` | 開啟檔案管理器 | `pcmanfm-qt` |
+| `Alt + Ctrl + s`  | 開啟檔案管理器 | `thunar`     |
+| `Win + Shift + s` | 開啟文字編輯器 | `mousepad`   |
+| `Win + Ctrl + s`  | 開啟網頁瀏覽器 | `firefox`    |
