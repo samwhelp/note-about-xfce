@@ -23,9 +23,12 @@ parent: 設定
 
 ## 設定檔
 
-這篇的根據，是採用「[客製的設定](https://samwhelp.github.io/note-about-xfce/read/config/profile/main.html)」，
+這篇的根據，是採用「[我自訂的設定](https://samwhelp.github.io/note-about-xfce/read/config/profile/main.html)」，
 
-請參考「[我的設定檔](https://github.com/samwhelp/note-about-xfce/tree/gh-pages/_demo/config/xfce-config/keybind/config/xfce4)」。
+請參考「我的設定檔: [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml)」。
+
+
+> [桌面環境按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)
 
 
 ## 系統操作
