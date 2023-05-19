@@ -22,7 +22,7 @@
 
 | 按鍵綁定 |
 | --- |
-| [我的按鍵綁定](https://samwhelp.github.io/note-about-xfce/read/config/keybind.html) |
+| Xfce / [我的按鍵綁定](https://samwhelp.github.io/note-about-xfce/read/config/keybind.html) |
 | [桌面環境按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start) |
 
 
