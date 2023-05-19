@@ -31,5 +31,5 @@ grand_parent: 設定
 
 | 說明 |
 | --- |
+| [中文版](https://samwhelp.github.io/note-about-xfce/read/config/keybind.html) |
 | [英文版](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/spec-keybind.md) |
-| [中文版](https://samwhelp.github.io/note-about-xfce/read/scenario/main.html) |
