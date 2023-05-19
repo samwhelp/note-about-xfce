@@ -23,7 +23,7 @@ grand_parent: 設定
 | ----------------- | ------------ | -------------------- |
 | `Alt + Space`  | 顯示「視窗操作選單」 | `popup_menu_key` (Xfce 內建) |
 
-> 也可以在「視窗標題列」使用「滑鼠右鍵」，就會顯示「視窗操作選單」。
+> 也可以在「視窗標題列」按下「滑鼠右鍵」，就會顯示「視窗操作選單」。
 
 
 ## 顯示「開始功能表」
@@ -39,8 +39,10 @@ grand_parent: 設定
 | ----------------- | ------------ | -------------------- |
 | `Win + Space`  | 顯示「桌面操作選單」 | `xfdesktop --menu` |
 
+> 也可以在「桌面」按下「滑鼠右鍵」，就會顯示「桌面操作選單」。
 
-## 顯示「顯示所有開啟視窗」
+
+## 顯示「顯示所有開啟視窗」和「工作空間」
 
 * [設定片段](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L64)
 
@@ -52,6 +54,8 @@ grand_parent: 設定
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
 | `Win + c`  | Toggle Present Windows (All desktops) | `xfdesktop --windowlist` |
+
+> 也可以在「桌面」按下「滑鼠中鍵」，就會顯示「工作空間操作選單」。
 
 
 
