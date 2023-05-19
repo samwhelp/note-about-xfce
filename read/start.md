@@ -1,7 +1,7 @@
 ---
 title: 入門
 nav_order: 1000
-has_children: true
+has_children: false
 ---
 
 # 入門
