@@ -11,8 +11,8 @@ has_children: true
 
 | 設定檔 | 按鍵綁定 |
 | --- | --- |
-| [我的設定](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/config/xfce4) | [客製](https://samwhelp.github.io/note-about-xfce/read/scenario/main.html) ([英文版說明](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/spec-keybind.md)) |
-| [系統預設](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/default/config/xfce4) | [預設](https://samwhelp.github.io/note-about-xfce/read/scenario/default.html) ([英文版說明](https://docs.xfce.org/)) |
+| [我的設定](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/config/xfce4) | [客製](https://samwhelp.github.io/note-about-xfce/read/config/keybind.html) ([英文版說明](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/spec-keybind.md)) |
+| [系統預設](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/default/config/xfce4) | ([英文版說明](https://docs.xfce.org/)) |
 
 
 ## 其他設定檔範例
