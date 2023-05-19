@@ -32,10 +32,19 @@ grand_parent: 設定
 
 ## 常用的系統設定程式
 
+* [設定片段](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L55-L59)
+
+``` xml
+<property name="&lt;Shift&gt;&lt;Alt&gt;s" type="string" value="xfce4-settings-manager"/>
+<property name="&lt;Primary&gt;&lt;Alt&gt;s" type="string" value="xfce4-settings-editor"/>
+<property name="&lt;Shift&gt;&lt;Super&gt;s" type="string" value="xfwm4-settings"/>
+<property name="&lt;Primary&gt;&lt;Super&gt;s" type="string" value="xfce4-appearance-settings"/>
+<property name="&lt;Primary&gt;Escape" type="string" value="xfce4-taskmanager"/>
+```
 
 | 按鍵組合          | 功能           | 執行指令     |
 | ----------------- | -------------- | ------------ |
-| `Alt + Shift + s` | 開啟檔案管理器 | `pcmanfm-qt` |
-| `Alt + Ctrl + s`  | 開啟檔案管理器 | `thunar`     |
-| `Win + Shift + s` | 開啟文字編輯器 | `mousepad`   |
-| `Win + Ctrl + s`  | 開啟網頁瀏覽器 | `firefox`    |
+| `Alt + Shift + s` | 開啟系統設定程式 | `xfce4-settings-manager` |
+| `Alt + Ctrl + s`  | 開啟系統設定程式 | `xfce4-settings-editor`     |
+| `Win + Shift + s` | 開啟系統設定程式 | `xfwm4-settings`   |
+| `Win + Ctrl + s`  | 開啟系統設定程式 | `xfce4-appearance-settings`    |
