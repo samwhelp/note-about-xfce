@@ -9,7 +9,7 @@ grand_parent: 連結
 
 # Rhino Linux
 
-* [XeroLinux](https://rhinolinux.org/) ([GitHub](https://github.com/rhino-linux))
+* [Rhino Linux](https://rhinolinux.org/) ([GitHub](https://github.com/rhino-linux))
 
 
 ## Download
