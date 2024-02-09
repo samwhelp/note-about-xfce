@@ -21,9 +21,12 @@
 ## 按鍵綁定
 
 | 按鍵綁定 |
-| --- |
-| Xfce / [我的按鍵綁定](https://samwhelp.github.io/note-about-xfce/read/config/keybind.html) |
+| -------- |
+| [鍵盤](https://samwhelp.github.io/note-about-xfce/read/config/keybind.html) |
+| [滑鼠](https://samwhelp.github.io/note-about-xfce/read/config/mousebind.html) |
 | [桌面環境按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start) |
+
+
 
 
 ## 相關筆記

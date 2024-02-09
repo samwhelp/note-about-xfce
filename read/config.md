@@ -7,6 +7,15 @@ has_children: true
 # 設定
 
 
+## 按鍵綁定
+
+| 按鍵綁定 |
+| -------- |
+| [鍵盤](https://samwhelp.github.io/note-about-xfce/read/config/keybind.html) |
+| [滑鼠](https://samwhelp.github.io/note-about-xfce/read/config/mousebind.html) |
+
+
+
 ## 設定檔範例
 
 | 設定檔 | 按鍵綁定 |
