@@ -43,7 +43,7 @@
 
 ## 如何
 
-| 如何 |
+| [如何](https://samwhelp.github.io/note-about-xfce/read/howto.html) |
 | ------- |
 | [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-xfce/read/howto/config-mouse-button-modifier.html) |
 
