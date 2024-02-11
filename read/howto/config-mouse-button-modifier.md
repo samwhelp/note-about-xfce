@@ -56,6 +56,18 @@ xfconf-query --channel xfwm4 --property "/general/easy_click" --set "Alt" --type
 
 
 
+## 圖形介面程式操作
+
+也可以透過「`xfwm4-tweaks-settings` (Window Manager Tweaks)」這個「圖形介面程式」來操作，
+
+在「Accessibility」這個「頁面」，
+
+有一個選項「Key used to grab and move windows:」，
+
+接著有一個「下拉選單」，可以選擇「Super」或「Alt」或是其他的按鍵。
+
+
+
 
 ## 相關議題
 
