@@ -78,13 +78,17 @@
 			<property name="style" type="uint" value="0"/>
 		</property>
 		<property name="plugin-7" type="string" value="clock">
-			<property name="digital-format" type="string" value="%A %Y-%m-%d %H:%M:%S"/>
 			<property name="mode" type="uint" value="2"/>
 			<property name="show-frame" type="bool" value="true"/>
 			<property name="size-max" type="uint" value="22"/>
 			<property name="style" type="uint" value="0"/>
-			<property name="tooltip-format" type="string" value="Week %V"/>
 			<property name="expand" type="bool" value="false"/>
+			<property name="tooltip-format" type="string" value="%d %B %Y %A"/>
+			<property name="digital-date-format" type="string" value="%Y-%m-%d %A"/>
+			<property name="digital-time-format" type="string" value="%H:%M:%S"/>
+			<property name="digital-date-font" type="string" value="Sans 8"/>
+			<property name="digital-time-font" type="string" value="Sans Bold 9"/>
+			<property name="digital-layout" type="uint" value="1"/>
 		</property>
 		<property name="plugin-8" type="string" value="showdesktop"/>
 		<property name="plugin-9" type="string" value="pulseaudio">
