@@ -85,9 +85,10 @@
 			<property name="XF86AudioMute" type="string" value="amixer -q -D pulse sset Master toggle"/>
 			<property name="XF86AudioLowerVolume" type="string" value="amixer -q -D pulse sset Master 5%- unmute"/>
 			<property name="XF86AudioRaiseVolume" type="string" value="amixer -q -D pulse sset Master 5%+ unmute"/>
-			<property name="Print" type="string" value="xfce4-screenshooter -fd 1"/>
-			<property name="&lt;Shift&gt;Print" type="string" value="xfce4-screenshooter -wd 1"/>
-			<property name="&lt;Primary&gt;&lt;Shift&gt;Print" type="string" value="xfce4-screenshooter -r"/>
+			<property name="Print" type="string" value="xfce4-screenshooter --fullscreen --delay 1"/>
+			<property name="&lt;Super&gt;Print" type="string" value="xfce4-screenshooter --window --delay 1"/>
+			<property name="&lt;Primary&gt;Print" type="string" value="xfce4-screenshooter --region"/>
+			<property name="&lt;Alt&gt;Print" type="string" value="xfce4-screenshooter"/>
 			<property name="&lt;Alt&gt;w" type="string" value="wallpaper-select-xfce shuf_favorite"/>
 			<property name="&lt;Primary&gt;&lt;Alt&gt;w" type="string" value="wallpaper-select-xfce default"/>
 		</property>
