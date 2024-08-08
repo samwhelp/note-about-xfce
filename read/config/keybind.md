@@ -23,9 +23,9 @@ parent: 設定
 
 ## 設定檔
 
-這篇「按鍵綁定」的根據，是採用「[我自訂的設定](https://samwhelp.github.io/note-about-xfce/read/config/profile/main.html)」，
+這篇「按鍵綁定」的根據，是採用「我慣用的設定」，
 
-請參考「我的設定檔: [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml)」。
+請參考「我的設定檔: [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml)」。
 
 
 > [桌面環境按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)

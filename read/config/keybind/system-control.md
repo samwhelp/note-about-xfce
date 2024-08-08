@@ -12,7 +12,7 @@ grand_parent: 設定
 
 ## 切換「顯示桌面」
 
-* [設定片段](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L215)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L215)
 
 ``` xml
 <property name="&lt;Super&gt;d" type="string" value="show_desktop_key"/>
@@ -27,7 +27,7 @@ grand_parent: 設定
 
 ## 登出
 
-* [設定片段](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L69)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L69)
 
 ``` xml
 <property name="&lt;Primary&gt;&lt;Alt&gt;Delete" type="string" value="xfce4-session-logout"/>
@@ -37,7 +37,7 @@ grand_parent: 設定
 | ----------------- | ------------ | -------------------- |
 | `Alt + Shift + x`  | 顯示「離開操作對話框」 | `xfce4-session-logout` |
 
-* [設定片段](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L61)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L61)
 
 ``` xml
 <property name="&lt;Shift&gt;&lt;Alt&gt;x" type="string" value="xfce4-session-logout"/>
@@ -50,7 +50,7 @@ grand_parent: 設定
 
 ## 休眠
 
-* [設定片段](https://github.com/samwhelp/note-about-xfce/blob/gh-pages/_demo/config/xfce-config/main/config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L215)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L215)
 
 ``` xml
 <property name="&lt;Shift&gt;&lt;Alt&gt;z" type="string" value="xflock4"/>

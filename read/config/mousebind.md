@@ -87,4 +87,4 @@ parent: 設定
 
 | 相關議題 |
 | ------- |
-| [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-xfce/read/howto/config-mouse-button-modifier.html) |
+| [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-xfce/read/howto/config-mouse-button-modifier.html) |
