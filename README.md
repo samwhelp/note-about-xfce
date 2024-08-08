@@ -16,6 +16,7 @@
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
 * [如何](#如何)
+* [iso-profile](#iso-profile)
 * [相關筆記](#相關筆記)
 
 
@@ -57,6 +58,14 @@
 | ------- |
 | [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-xfce/read/howto/config-mouse-button-modifier.html) |
 
+
+
+
+## iso-profile
+
+| iso-profile |
+| -------- |
+| [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/prototype/locale/en_us/eznixos-adjustment-xfce) |
 
 
 
