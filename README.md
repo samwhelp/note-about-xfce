@@ -38,7 +38,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Xfce Config](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config) |
+| [Xfce Config](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
 
 
 
