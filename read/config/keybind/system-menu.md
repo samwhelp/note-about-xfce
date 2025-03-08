@@ -12,7 +12,7 @@ grand_parent: 設定
 
 ## 顯示「視窗操作選單」
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L166)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L166)
 
 
 ``` xml
@@ -28,7 +28,7 @@ grand_parent: 設定
 
 ## 顯示「開始功能表」
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L63)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L63)
 
 
 ``` xml
@@ -44,7 +44,7 @@ grand_parent: 設定
 
 ## 顯示「顯示所有開啟視窗」和「工作空間」
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L64)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L64)
 
 
 ``` xml
@@ -61,7 +61,7 @@ grand_parent: 設定
 
 ## 顯示「開始功能表 (whiskermenu)」
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L43)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L43)
 
 
 ``` xml
@@ -75,7 +75,7 @@ grand_parent: 設定
 
 ## Runner
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L44-L46)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L44-L46)
 
 ``` xml
 <property name="&lt;Alt&gt;F2" type="string" value="xfce4-appfinder">
@@ -88,7 +88,7 @@ grand_parent: 設定
 | `Alt + F2`  | 執行 Runner | `xfce4-appfinder` |
 
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L47-L49)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L47-L49)
 
 ``` xml
 <property name="&lt;Alt&gt;F3" type="string" value="xfce4-appfinder --collapsed">
@@ -103,7 +103,7 @@ grand_parent: 設定
 
 ## Task Manager
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L59)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L59)
 
 ``` xml
 <property name="&lt;Primary&gt;Escape" type="string" value="xfce4-taskmanager"/>

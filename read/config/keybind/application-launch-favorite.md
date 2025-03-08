@@ -12,7 +12,7 @@ grand_parent: 設定
 
 ## 常用的應用程式
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L75-L78)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L75-L78)
 
 ``` xml
 <property name="&lt;Shift&gt;&lt;Alt&gt;f" type="string" value="pcmanfm-qt"/>
@@ -32,7 +32,7 @@ grand_parent: 設定
 
 ## 常用的系統設定程式
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L55-L59)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L55-L59)
 
 ``` xml
 <property name="&lt;Shift&gt;&lt;Alt&gt;s" type="string" value="xfce4-settings-manager"/>

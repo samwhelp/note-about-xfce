@@ -23,7 +23,7 @@ grand_parent: 設定
 
 ## 關閉視窗
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L186)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L186)
 
 | 按鍵組合          | 功能     | 執行指令         |
 | ----------------- | -------- | ---------------- |
@@ -32,7 +32,7 @@ grand_parent: 設定
 
 ## 全螢幕
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L229)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L229)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -41,7 +41,7 @@ grand_parent: 設定
 
 ## 最大化
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L187)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L187)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -51,7 +51,7 @@ grand_parent: 設定
 
 ## 最小化
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L188)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L188)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -60,7 +60,7 @@ grand_parent: 設定
 
 ## 開始視窗移動
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L189)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L189)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -71,7 +71,7 @@ grand_parent: 設定
 
 ## 開始視窗更改大小
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L190)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L190)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -82,7 +82,7 @@ grand_parent: 設定
 
 ## 取消開始相關操作
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L167)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L167)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -94,7 +94,7 @@ grand_parent: 設定
 
 ## 永遠在最上方
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L208)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L208)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -103,7 +103,7 @@ grand_parent: 設定
 
 ## 內容區塊收合
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L204)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L204)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -115,7 +115,7 @@ grand_parent: 設定
 
 ## 將下方視窗移上來
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L205)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L205)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |

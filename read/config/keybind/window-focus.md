@@ -10,7 +10,7 @@ grand_parent: 設定
 # 視窗聚焦切換
 
 
-* [設定片段](https://github.com/samwhelp/xfce-adjustment/blob/main/prototype/main/xfce-config/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L160)
+* [設定片段](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L160)
 
 
 ## 前後聚焦切換
