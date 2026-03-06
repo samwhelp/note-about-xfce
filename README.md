@@ -43,6 +43,12 @@
 | [Xfce Config](https://github.com/samwhelp/xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
 
 
+| Style Management |
+| ---------------- |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+| [make-xfce-style](https://github.com/samwhelp/make-xfce-style) |
+
+
 
 
 ## 按鍵綁定
