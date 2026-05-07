@@ -6,8 +6,6 @@
 | ---- | ------ |
 | [Xfce Adjustment](https://samwhelp.github.io/xfce-adjustment/) | [GitHub](https://github.com/samwhelp/xfce-adjustment) |
 | [Xfce 探索筆記](https://samwhelp.github.io/note-about-xfce/) | [GitHub](https://github.com/samwhelp/note-about-xfce) |
-| [make-xfce-style](https://samwhelp.github.io/make-xfce-style/) | [GitHub](https://github.com/samwhelp/make-xfce-style) |
-
 
 
 > [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-xfce/read/cheatsheet/keybind.html)
