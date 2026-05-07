@@ -19,9 +19,9 @@
 
 * [入門](#入門)
 * [微調腳本](#微調腳本)
+* [ISO](#iso)
 * [按鍵綁定](#按鍵綁定)
 * [如何](#如何)
-* [ISO Profile](#iso-profile)
 * [相關筆記](#相關筆記)
 
 
@@ -51,6 +51,20 @@
 
 
 
+## ISO
+
+### Build ISO
+
+| Build ISO |
+| --------- |
+| [ubuntu-iso-builder-respin-xfce](https://github.com/samwhelp/ubuntu-iso-builder-respin-xfce) |
+| [debian-iso-builder-respin-xfce](https://github.com/samwhelp/debian-iso-builder-respin-xfce) |
+| [lika-live-build-respin-xfce](https://github.com/samwhelp/lika-live-build-respin-xfce) |
+| [voidlinux-live-build-config-respin-xfce](https://github.com/samwhelp/voidlinux-live-build-config-respin-xfce) |
+
+
+
+
 ## 按鍵綁定
 
 | 按鍵綁定 |
@@ -72,27 +86,19 @@
 
 
 
-## ISO Profile
-
-| ISO Profile |
-| -------- |
-| [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/prototype/locale/en_us/eznixos-adjustment-xfce) |
-
-
-
-
 ## 相關筆記
 
 | Link | GitHub |
 | ---- | ------ |
-| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
+| [Xubuntu 探索筆記](https://samwhelp.github.io/note-about-xubuntu/) | [GitHub](https://github.com/samwhelp/note-about-xubuntu) |
 | [Debian Xfce 探索筆記](https://samwhelp.github.io/note-about-debian-xfce/) | [GitHub](https://github.com/samwhelp/note-about-debian-xfce) |
+| [Fedora Xfce 探索筆記](https://samwhelp.github.io/note-about-fedora-xfce/) | [GitHub](https://github.com/samwhelp/note-about-fedora-xfce) |
+| [Archlinux Xfce 探索筆記](https://samwhelp.github.io/note-about-archlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-xfce) |
+| [Voidlinux Xfce 探索筆記](https://samwhelp.github.io/note-about-voidlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-xfce) |
+| [Solus Xfce 探索筆記](https://samwhelp.github.io/note-about-solus-xfce/) | [GitHub](https://github.com/samwhelp/note-about-solus-xfce) |
 | [MxLinux Xfce 探索筆記](https://samwhelp.github.io/note-about-mxlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-xfce) |
 | [LinuxMint Xfce 探索筆記](https://samwhelp.github.io/note-about-linuxmint-xfce/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-xfce) |
-| [Xubuntu 探索筆記](https://samwhelp.github.io/note-about-xubuntu/) | [GitHub](https://github.com/samwhelp/note-about-xubuntu) |
-| [ArchLinux Xfce 探索筆記](https://samwhelp.github.io/note-about-archlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-xfce) |
 | [Manjaro Xfce 探索筆記](https://samwhelp.github.io/note-about-manjaro-xfce/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-xfce) |
-| [Fedora Xfce 探索筆記](https://samwhelp.github.io/note-about-fedora-xfce/) | [GitHub](https://github.com/samwhelp/note-about-fedora-xfce) |
 
 
 
